@@ -1,0 +1,10 @@
+The 3 common core objects I chose were:
+    http
+    filesystem
+    path
+
+HTTP (HyperText Transfer Protocol): HTTP is the foundational protocol of the World Wide Web. It enables communication between your web browser and web servers. When you enter a web address in your browser, it sends an HTTP request to retrieve web content, such as text, images, and videos, from the server. HTTP ensures data exchange and smooth browsing experiences.
+
+Filesystem: The filesystem is the hierarchical structure used by your computer's operating system to organize and manage files and directories. It provides a standardized way to store, retrieve, and organize digital data. It allows you to categorize and locate files, ensuring efficient data storage and retrieval.
+
+Path: A path is a precise and standardized reference to the location of a file or directory within the filesystem. It specifies the route from the root directory to the desired file or directory, akin to providing a map for precise navigation. Paths are crucial for locating and accessing specific files or directories in a structured manner.
