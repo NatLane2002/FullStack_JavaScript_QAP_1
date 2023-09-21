@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/NatLane2002/FullStack_JavaScript_QAP_1/issues"
   },
-  "homepage": "https://github.com/NatLane2002/FullStack_JavaScript_QAP_1#readme"
+  "homepage": "https://github.com/NatLane2002/FullStack_JavaScript_QAP_1#readme",
+  "dependencies": {
+    "axios": "^1.5.0",
+    "chalk": "^5.3.0"
+  }
 }
