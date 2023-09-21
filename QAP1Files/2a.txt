@@ -3,8 +3,8 @@ The 3 common core objects I chose were:
     filesystem
     path
 
-HTTP (HyperText Transfer Protocol): HTTP is the foundational protocol of the World Wide Web. It enables communication between your web browser and web servers. When you enter a web address in your browser, it sends an HTTP request to retrieve web content, such as text, images, and videos, from the server. HTTP ensures data exchange and smooth browsing experiences.
+http: The http module in Node.js is fundamental for web development. It allows the creation of HTTP servers, handles incoming requests, and enables making HTTP requests to other servers or APIs, making it a core tool for web applications and network tasks in Node.js.
 
-Filesystem: The filesystem is the hierarchical structure used by your computer's operating system to organize and manage files and directories. It provides a standardized way to store, retrieve, and organize digital data. It allows you to categorize and locate files, ensuring efficient data storage and retrieval.
+filesystem: The filesystem module in Node.js is a core tool for working with files and directories on the local file system. It supports reading, writing, creating, and deleting files and directories, making it essential for tasks like file processing, data storage, and handling uploads in Node.js applications.
 
-Path: A path is a precise and standardized reference to the location of a file or directory within the filesystem. It specifies the route from the root directory to the desired file or directory, akin to providing a map for precise navigation. Paths are crucial for locating and accessing specific files or directories in a structured manner.
+path: The path module in Node.js simplifies handling file and directory paths, ensuring cross-platform compatibility. It offers functions for joining, resolving, and normalizing paths, making file I/O operations more consistent and efficient across different operating systems. This module is essential for developers working on cross-platform applications where path manipulation is a common task..
